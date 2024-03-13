@@ -1,3 +1,5 @@
+package Program;
+
 import Clase.PersonalSpital;
 import Fabrici.FabricaAsistent;
 import Fabrici.FabricaInfirmier;
