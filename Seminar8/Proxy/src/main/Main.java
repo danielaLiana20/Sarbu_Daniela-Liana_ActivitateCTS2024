@@ -22,6 +22,7 @@ public class Main {
 
         System.out.println("------------------");
 
+
         BiletAbstract bilet4=new ProxyBilet(bilet3);
         bilet4.vanzareBilet(client);
         bilet4.vanzareBilet(client2);
