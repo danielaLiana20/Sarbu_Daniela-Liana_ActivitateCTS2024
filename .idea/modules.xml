@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/seminar5/Builder/Builder.iml" filepath="$PROJECT_DIR$/seminar5/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar5/BuilderV2/BuilderV2.iml" filepath="$PROJECT_DIR$/seminar5/BuilderV2/BuilderV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS_1095.iml" filepath="$PROJECT_DIR$/CTS_1095.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9/Composite/Composite.iml" filepath="$PROJECT_DIR$/Seminar9/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercitii/ExercitiiBuilder/ExercitiiBuilder.iml" filepath="$PROJECT_DIR$/exercitii/ExercitiiBuilder/ExercitiiBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercitii/ExercitiiFactoryMethod/ExercitiiFactoryMethod.iml" filepath="$PROJECT_DIR$/exercitii/ExercitiiFactoryMethod/ExercitiiFactoryMethod.iml" />
@@ -15,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/exercitii/ExercitiiBuilder/Farmacie/Farmacie.iml" filepath="$PROJECT_DIR$/exercitii/ExercitiiBuilder/Farmacie/Farmacie.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercitii/ExercitiiFactoryMethod/FarmacieFactoryMethod/FarmacieFactoryMethod.iml" filepath="$PROJECT_DIR$/exercitii/ExercitiiFactoryMethod/FarmacieFactoryMethod/FarmacieFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercitii/ExercitiiFactorySimple/FarmacieFactorySimple/FarmacieFactorySimple.iml" filepath="$PROJECT_DIR$/exercitii/ExercitiiFactorySimple/FarmacieFactorySimple/FarmacieFactorySimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9/Flyweigth/Flyweigth.iml" filepath="$PROJECT_DIR$/Seminar9/Flyweigth/Flyweigth.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar5/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/seminar5/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercitii/ExercitiiBuilder/Restaurant/Restaurant.iml" filepath="$PROJECT_DIR$/exercitii/ExercitiiBuilder/Restaurant/Restaurant.iml" />
@@ -27,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/Seminar7.iml" filepath="$PROJECT_DIR$/Seminar6/Seminar7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Seminar8.iml" filepath="$PROJECT_DIR$/Seminar8/Seminar8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9/Seminar9.iml" filepath="$PROJECT_DIR$/Seminar9/Seminar9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercitii/exercitii.iml" filepath="$PROJECT_DIR$/exercitii/exercitii.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar5/seminar5.iml" filepath="$PROJECT_DIR$/seminar5/seminar5.iml" />
