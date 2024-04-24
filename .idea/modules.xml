@@ -7,11 +7,12 @@
       <module fileurl="file://$PROJECT_DIR$/seminar5/BuilderV2/BuilderV2.iml" filepath="$PROJECT_DIR$/seminar5/BuilderV2/BuilderV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS_1095.iml" filepath="$PROJECT_DIR$/CTS_1095.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10/Chain/Chain.iml" filepath="$PROJECT_DIR$/Seminar10/Chain/Chain.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminar9/Composite/Composite.iml" filepath="$PROJECT_DIR$/Seminar9/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercitii/ExercitiiBuilder/ExercitiiBuilder.iml" filepath="$PROJECT_DIR$/exercitii/ExercitiiBuilder/ExercitiiBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercitii/ExercitiiComposite/ExercitiiComposite.iml" filepath="$PROJECT_DIR$/exercitii/ExercitiiComposite/ExercitiiComposite.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercitii/ExercitiiFactoryMethod/ExercitiiFactoryMethod.iml" filepath="$PROJECT_DIR$/exercitii/ExercitiiFactoryMethod/ExercitiiFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercitii/ExercitiiFactorySimple/ExercitiiFactorySimple.iml" filepath="$PROJECT_DIR$/exercitii/ExercitiiFactorySimple/ExercitiiFactorySimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercitii/ExercitiiFlyweight/ExercitiiFlyweight.iml" filepath="$PROJECT_DIR$/exercitii/ExercitiiFlyweight/ExercitiiFlyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercitii/ExercitiiPrototype/ExercitiiPrototype.iml" filepath="$PROJECT_DIR$/exercitii/ExercitiiPrototype/ExercitiiPrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar4/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercitii/ExercitiiBuilder/Farmacie/Farmacie.iml" filepath="$PROJECT_DIR$/exercitii/ExercitiiBuilder/Farmacie/Farmacie.iml" />
@@ -34,6 +35,9 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Seminar8.iml" filepath="$PROJECT_DIR$/Seminar8/Seminar8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar9/Seminar9.iml" filepath="$PROJECT_DIR$/Seminar9/Seminar9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4/SimpleFactory/SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercitii/ExercitiiComposite/Spital/Spital.iml" filepath="$PROJECT_DIR$/exercitii/ExercitiiComposite/Spital/Spital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercitii/ExercitiiFlyweight/Sportiv2/Spital2.iml" filepath="$PROJECT_DIR$/exercitii/ExercitiiFlyweight/Sportiv2/Spital2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercitii/ExercitiiFlyweight/Sportiv/Sportiv.iml" filepath="$PROJECT_DIR$/exercitii/ExercitiiFlyweight/Sportiv/Sportiv.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Seminar10/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercitii/exercitii.iml" filepath="$PROJECT_DIR$/exercitii/exercitii.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar5/seminar5.iml" filepath="$PROJECT_DIR$/seminar5/seminar5.iml" />
